@@ -1,0 +1,90 @@
+#mcs {
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTjSofQzFT9J6Lbnf-PGA-wAT_FCoHVYztGA&usqp=CAU);
+margin-top: 100px;
+padding-top:20px;
+text-align: center;
+min-height: 500px;
+background-position: center center;
+width: 100%;
+background-attachment: relative;
+background-size: 100%;
+background-size: cover;
+position	: relative;
+
+}
+#mc {
+ background-image: url(https://previews.123rf.com/images/enterline/enterline1403/enterline140300025/26435384-the-word-series-written-in-vintage-letterpress-type.jpg);
+margin-top: 100px;
+padding-top:20px;
+text-align: center;
+min-height: 500px;
+background-position: center center;
+width: 100%;
+background-attachment: relative;
+background-size: 100%;
+background-size: cover;
+position	: relative;
+
+}
+#m {
+ background-image: url(https://thumbs.dreamstime.com/b/word-cartoons-written-blue-d-letters-laying-white-surface-d-rendering-cartoons-blue-d-write-d-rendering-106351280.jpg);
+margin-top: 100px;
+padding-top:20px;
+text-align: center;
+min-height: 500px;
+background-position: center center;
+width: 100%;
+background-attachment: relative;
+background-size: 100%;
+background-size: cover;
+position	: relative;
+
+}
+#overview {
+  float: left;
+  background-color: #000000;
+
+ 
+  background-size: cover;
+  background-attachment: fixed;
+
+  padding: 100px 0;
+  width: 100%;
+  text-align: center;
+  color: #FFA500;
+}
+#overview .img {
+  float: left;
+  width: 25%;
+  margin-right: 5%;
+  margin-top: 50px;
+  height: 30%;
+}
+
+
+
+#overview img {
+  background: #fafafa;
+  padding: 3px;
+  border: 2px solid silver;
+  float: left;
+  width: 90%;
+  max-width: 400px;
+  margin-left:20%;
+}
+
+#overview span {
+  float: left;
+  width: 100%;
+  font-size: 2em;
+  margin-top: 10px;
+  margin-left:20%;
+  
+}
+.photo:hover img {
+	-webkit-transform: scale(1.1);
+-ms-transform: scale(1.1); 
+transform: scale(1.1);
+	
+
+
